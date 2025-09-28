@@ -1,0 +1,26 @@
+{
+  "name": "eco-aisla-form",
+  "version": "1.0.0",
+  "description": "EcoAisla - Aislamiento térmico de áticos por solo 1€ con formulario multi-paso",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "keywords": [
+    "aislamiento",
+    "ático",
+    "energía",
+    "ecológico",
+    "formulario",
+    "multi-paso"
+  ],
+  "author": "EcoAisla",
+  "license": "MIT"
+}
